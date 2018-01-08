@@ -1,81 +1,81 @@
 {
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@15f6cf38a1ac4d61aeba25ad6138eb96": {
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@15f6cf38a1ac4d61aeba25ad6138eb96": {
     "category": "chapter", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@a7f962a43af749b5807856e151baaf15", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@5d93aa7800b645f1b22c7bf33bb21f4d", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@e1ca991d2cc647dd87d56a711c0d9412", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@0faeb5f644634cf985fe53e3eec82edc", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@4c9a7255f36743899270563ddc9976c7"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@a7f962a43af749b5807856e151baaf15",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@5d93aa7800b645f1b22c7bf33bb21f4d",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@e1ca991d2cc647dd87d56a711c0d9412",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@0faeb5f644634cf985fe53e3eec82edc",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@4c9a7255f36743899270563ddc9976c7"
     ], 
     "metadata": {
       "display_name": "Pre-Training Test"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@4982532eeb324bc787cf151c6f4f8771": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@4982532eeb324bc787cf151c6f4f8771": {
     "category": "chapter", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@41d76f89ed8c485e9c08f8d764515bf2", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@af6ea5eef3964b40843677bb76d3d7af", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@35c8c18052584f2b8a86b684a2266ac9", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@246a5fedaf104fda930dba6201327bcf", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@4c1d8a3203c5483d975cedbc528561e1"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@41d76f89ed8c485e9c08f8d764515bf2",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@af6ea5eef3964b40843677bb76d3d7af",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@35c8c18052584f2b8a86b684a2266ac9",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@246a5fedaf104fda930dba6201327bcf",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@4c1d8a3203c5483d975cedbc528561e1"
     ], 
     "metadata": {
       "display_name": "Post-Training Test"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@5b053a7f10ba41df85a3221c3ef3956e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@5b053a7f10ba41df85a3221c3ef3956e": {
     "category": "chapter", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@9dc5d1d563c44c9890c704eb69719b08", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@9f1e58553ad448818ec8e7915d3d94d3", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@f052c7aa44274769a4631e95405834e0"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@9dc5d1d563c44c9890c704eb69719b08",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@9f1e58553ad448818ec8e7915d3d94d3",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@f052c7aa44274769a4631e95405834e0"
     ], 
     "metadata": {
       "display_name": "Outline"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@ae34b27573ea4fb783142e2881b0c3ce": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@ae34b27573ea4fb783142e2881b0c3ce": {
     "category": "chapter", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@e504a5d3859e4ba6a4cf4388c9057a6a"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@e504a5d3859e4ba6a4cf4388c9057a6a"
     ], 
     "metadata": {
       "display_name": "Anatomy"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@b05c8a14796d4f2e8144b04274c1c7e3": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@b05c8a14796d4f2e8144b04274c1c7e3": {
     "category": "chapter", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@1d275d0753c643dcb0f2000cc42373cb", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@fef187417e774d829441061abbaedd9c", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@1102a73965904d7a98e92673b3d95cd9"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@1d275d0753c643dcb0f2000cc42373cb",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@fef187417e774d829441061abbaedd9c",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@1102a73965904d7a98e92673b3d95cd9"
     ], 
     "metadata": {
       "display_name": "Optic disc interpretation"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@d8ee65b74054437b942c705615468512": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@d8ee65b74054437b942c705615468512": {
     "category": "chapter", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@fac8649a4c3b4ee48a09d183c42f5017", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@d3ba8d33497b4e9e984f849e6a0300af", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@71ef4b65634b40afb2bc4afb1ce72655"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@fac8649a4c3b4ee48a09d183c42f5017",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@d3ba8d33497b4e9e984f849e6a0300af",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@71ef4b65634b40afb2bc4afb1ce72655"
     ], 
     "metadata": {
       "display_name": "Funduscopy"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@course+block@course": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@course+block@course": {
     "category": "course", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@5b053a7f10ba41df85a3221c3ef3956e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@15f6cf38a1ac4d61aeba25ad6138eb96", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@ae34b27573ea4fb783142e2881b0c3ce", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@d8ee65b74054437b942c705615468512", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@b05c8a14796d4f2e8144b04274c1c7e3", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@4982532eeb324bc787cf151c6f4f8771"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@5b053a7f10ba41df85a3221c3ef3956e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@15f6cf38a1ac4d61aeba25ad6138eb96",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@ae34b27573ea4fb783142e2881b0c3ce",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@d8ee65b74054437b942c705615468512",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@b05c8a14796d4f2e8144b04274c1c7e3",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@chapter+block@4982532eeb324bc787cf151c6f4f8771"
     ], 
     "metadata": {
       "advanced_modules": [
@@ -157,16 +157,16 @@
         }
       ]
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@discussion+block@837b809ed1e64651951e6ea7ed3b6ee1": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@discussion+block@837b809ed1e64651951e6ea7ed3b6ee1": {
     "category": "discussion", 
     "children": [], 
     "metadata": {
       "discussion_id": "9fa2c8b478f5c5035d4c9277e05a7a1b0449533a", 
       "display_name": "Discussion (public)"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@drag-and-drop-v2+block@7b1374a68b4047abb747e5a6e389820c": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@drag-and-drop-v2+block@7b1374a68b4047abb747e5a6e389820c": {
     "category": "drag-and-drop-v2", 
     "children": [], 
     "metadata": {
@@ -181,268 +181,268 @@
       "show_title": true, 
       "weight": 1.0
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@04b5a8d07baa4a2ea1eaeb75f5a35a10": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@04b5a8d07baa4a2ea1eaeb75f5a35a10": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@0623d0e182aa46b1b712afb8bec09c4c": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@0623d0e182aa46b1b712afb8bec09c4c": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@1c88aa5fddb343f9896c2da1b78cd5dd": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@1c88aa5fddb343f9896c2da1b78cd5dd": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@1e78ec13e47641929dcdc14a0b0c63ea": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@1e78ec13e47641929dcdc14a0b0c63ea": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@21ab789d458848a3a0a5a4e6ceb50af4": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@21ab789d458848a3a0a5a4e6ceb50af4": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@2c019e84d5b04429b701a9d239fd94bf": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@2c019e84d5b04429b701a9d239fd94bf": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@2eed0e5040b74ac698b36d109781b068": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@2eed0e5040b74ac698b36d109781b068": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@3e1a2974ec81491490f0dd57066664ea": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@3e1a2974ec81491490f0dd57066664ea": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@5671bfeb26e54260a251d4db35a2c940": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@5671bfeb26e54260a251d4db35a2c940": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@5aedbb5451f348b484ff696093d81949": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@5aedbb5451f348b484ff696093d81949": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@603ed8ad83f34cdfa9264048710b4de6": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@603ed8ad83f34cdfa9264048710b4de6": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@6668b058f05b44d1ab5969ac6d807dbc": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@6668b058f05b44d1ab5969ac6d807dbc": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@6d6ffaff23c0420a904ab29f7df66991": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@6d6ffaff23c0420a904ab29f7df66991": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@792b64ec734d41659b9c97fa152fbc72": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@792b64ec734d41659b9c97fa152fbc72": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@86ab4162edaa4651b28b467444fdc1ba": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@86ab4162edaa4651b28b467444fdc1ba": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@8987b9ad71794311ad90fec713a8f27c": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@8987b9ad71794311ad90fec713a8f27c": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@8eb6b4ee9e0546fca0a4facc8ab7a71a": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@8eb6b4ee9e0546fca0a4facc8ab7a71a": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@9339fce42fcf45d4ac002f17226fcb3a": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@9339fce42fcf45d4ac002f17226fcb3a": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@a0f918075a134bef8873e601adb0948e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@a0f918075a134bef8873e601adb0948e": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Full Screen Image Tool"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@a650bcee6e374b7f804bfb5975efa975": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@a650bcee6e374b7f804bfb5975efa975": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@a9421439a41044f8b2bb9dedd097f1c2": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@a9421439a41044f8b2bb9dedd097f1c2": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@bb57ac8055da48e084610dd451280554": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@bb57ac8055da48e084610dd451280554": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@bfc9e63212a84b5c9474f2bf2240261e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@bfc9e63212a84b5c9474f2bf2240261e": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@cc8396952ef74b9ba9363e67c49786dc": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@cc8396952ef74b9ba9363e67c49786dc": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@d1d1d6f331b54db8adba7f9917868501": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@d1d1d6f331b54db8adba7f9917868501": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "group_access": {}
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@dff14aa57ffc4c6cabc068b47b48e70e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@dff14aa57ffc4c6cabc068b47b48e70e": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@e06b3beaf54149e88ee8985d765cba5a": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@e06b3beaf54149e88ee8985d765cba5a": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@e0b2c92535a64426b9f6b8c826b1d1b9": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@e0b2c92535a64426b9f6b8c826b1d1b9": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@e2e9020d8a3b4024b4e2e08d24c243eb": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@e2e9020d8a3b4024b4e2e08d24c243eb": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@ee0f341deb704d858628797ca636ed8d": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@ee0f341deb704d858628797ca636ed8d": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@f20ff41a5e5f4d848e7bc22b3b76a18c": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@f20ff41a5e5f4d848e7bc22b3b76a18c": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@f480220d40314fd4b3f0d2edf07c8452": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@f480220d40314fd4b3f0d2edf07c8452": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@f68c330dfa5a4cc8b200e2358f3117d9": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@f68c330dfa5a4cc8b200e2358f3117d9": {
     "category": "html", 
     "children": [], 
     "metadata": {}
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@fd7410064f29429c8bf8df1b04106b5e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@fd7410064f29429c8bf8df1b04106b5e": {
     "category": "html", 
     "children": [], 
     "metadata": {
       "display_name": "Text"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@012a9eb325894a879b9e089b82323b7e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@012a9eb325894a879b9e089b82323b7e": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0249a8c7a4d14dd98988f145b4912ea1": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0249a8c7a4d14dd98988f145b4912ea1": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Dropdown", 
       "markdown": "Fundus Anatomy\n=====\n\n>>The optic disc is...<<\n[[\ntemporal (lateral) to the macula, \n(nasal (medial)  macula)\ntemporal (lateral) and in the same horizontal plane compared with the macula\nnasal\n]]\n\n>>The optic disc is...<<\n[[(in the same horizontal plane as the macula),\nsuperior to the macula,\ninferior to the macula]]\n\n>>Therefore when finding the optic disc during funduscopy you should aim your funduscope...<<\n[[(in the horizontal axis of the patient's line of sight, and towards the nose),\nabove the patient's line of sight, and towards the nose,\nin the axis of the patient's line of sight, and towards the temple/ear]]\n\n>>Retinal vessels all enter the eye via:<<\n[[(the nasal side of the optic disc),\nthe macula, the temporal side of the optic disc\nthe iris]]\n\n>>Retinal vessels bifurcate (divide):<<\n[[(away from the optic disc),\ntowards the optic disc,\ntowards the macula,\ntowards the iris]]\n\n>>Therefore when finding the optic disc during funduscopy you should aim your funduscope...<<\n[[(the opposite direction to a bifurcating vessel),\nthe same direction as a bifurcating vessel,\nin the axis of the patient's line of sight, and towards the temple/ear]]"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@03162688466f4e2a8753669db60c63b6": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@03162688466f4e2a8753669db60c63b6": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[(abnormal), normal, I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@04f26761f6794f49a531f45794568900": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@04f26761f6794f49a531f45794568900": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@07df45e59e374ebd91deb4009cbde9e6": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@07df45e59e374ebd91deb4009cbde9e6": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[X] none of the above"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0bd25e1595f34993a6e0031b9108e8a8": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0bd25e1595f34993a6e0031b9108e8a8": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0c9014f5cbc046a59156c9f4cb20f173": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0c9014f5cbc046a59156c9f4cb20f173": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0cea2374dbe24d378a62c355142de9c6": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0cea2374dbe24d378a62c355142de9c6": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -450,64 +450,64 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[left optic disc, (right optic disc), I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0d0d152bff1e4a4194e677feb2cf158f": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0d0d152bff1e4a4194e677feb2cf158f": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[ ] obscured by the disc\n[x] copper wiring\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0fd63b19884d4b199ff10b0f636e5cdb": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0fd63b19884d4b199ff10b0f636e5cdb": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[x] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[x] other haemorrhages\n[ ] emboli\n[ ] none of the above"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0feca91e169c42d09fb10cfebeefd1ac": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0feca91e169c42d09fb10cfebeefd1ac": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[(pale), normal, hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@140487e6cdc541a6913f297f5940acbb": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@140487e6cdc541a6913f297f5940acbb": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[x] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@1ee3d269768b43798f2871a2f5813e23": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@1ee3d269768b43798f2871a2f5813e23": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[(pale), normal, hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@20599252806e4c84b85a069d6cec9109": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@20599252806e4c84b85a069d6cec9109": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[X] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[X] other haemorrhages\n[ ] emboli\n[ ] none of the above\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@247cf306339540c5bae1083eba574d42": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@247cf306339540c5bae1083eba574d42": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[x] obscured by the disc\n[ ] copper wiring\n[x] attenuated (thinned) arteries\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@25af4b24fad44d55952a3ec4b13f1b49": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@25af4b24fad44d55952a3ec4b13f1b49": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -515,40 +515,40 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[right optic disc, (left optic disc), I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2bf60205809142e9b60e31678c74d776": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2bf60205809142e9b60e31678c74d776": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[X] none of the above"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2c90408e0f5549019b29e4bc9a8fb646": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2c90408e0f5549019b29e4bc9a8fb646": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[x] obscured by the disc\n[ ] copper wiring\n[ ] attenuated (thinned) arteries\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2d08384c84e249ce96cc1a704a7b1c0c": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2d08384c84e249ce96cc1a704a7b1c0c": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2df49b765d5c4b6a9b1719ea18236724": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2df49b765d5c4b6a9b1719ea18236724": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2ef9fea9b75843798fa9ea796c257e39": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2ef9fea9b75843798fa9ea796c257e39": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -556,48 +556,48 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[(right optic disc), left optic disc, I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@357835701b214c28bd75909a16664116": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@357835701b214c28bd75909a16664116": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[0.4-0.6, (0.1-0.3), 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@35ec1ff64d1d437fb9388656955a53d4": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@35ec1ff64d1d437fb9388656955a53d4": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[ ] none of the above"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@3a2626b92fad4c009efa08a2e809eaf0": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@3a2626b92fad4c009efa08a2e809eaf0": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[ ] obscured by the disc\n[ ] copper wiring\n[X] disorganised: new vessels\n[ ] attenuated (thinned) arteries\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@3ecb54c8d41147419f3ac086b510b92a": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@3ecb54c8d41147419f3ac086b510b92a": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@47f34b8b7a9d449ba45799ab481248f5": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@47f34b8b7a9d449ba45799ab481248f5": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[X] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4c1f165fac0e401b9d6fb23edaedb4fd": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4c1f165fac0e401b9d6fb23edaedb4fd": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -605,48 +605,48 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[(right optic disc), left optic disc, I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4c55ed92d6784013a0bbbf442e547ab1": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4c55ed92d6784013a0bbbf442e547ab1": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4d4552bde16145e2b2f6d37f44b71a3b": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4d4552bde16145e2b2f6d37f44b71a3b": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4e2b223acaa7405e95948bf686fbb017": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4e2b223acaa7405e95948bf686fbb017": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Dropdown", 
       "markdown": "What year are you in?\n>>  <<\n[[\n(1)\n(2)\n(3)\n(4)\n]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4ed7cf02d41245ee907f20d94bf332e3": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4ed7cf02d41245ee907f20d94bf332e3": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@5126a2ba3d2a41d685ebfc97dc7cdf3c": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@5126a2ba3d2a41d685ebfc97dc7cdf3c": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[ ] none of the above"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@51ab92040d63451b818ca78aff909a03": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@51ab92040d63451b818ca78aff909a03": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -654,56 +654,56 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[right optic disc, (left optic disc), I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@56e9319918984a41a441d28dc94ce72f": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@56e9319918984a41a441d28dc94ce72f": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@5e3a8624ca004975a2249accd83efd99": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@5e3a8624ca004975a2249accd83efd99": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Dropdown", 
       "markdown": "Assessing vessels at the optic disc.\n\n\n=====\n\n>>What is shown at the thin arrow? Looking at the optic disc photo above<<\n[[\nretinal artery disappearing in a swollen disc\n(retinal vein disappearing in a swollen disc)\nretinal venous beading\n]]\n>>What is shown at the thick arrow?<<\n[[dilated retinal artery coursing over swollen optic nerve tissue, (dilated retinal vein coursing over swollen optic nerve tissue), retinal haemorrhage at the optic disc]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@6952fe3c224d4674a82d7db5abc5ab17": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@6952fe3c224d4674a82d7db5abc5ab17": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[x] obscured by the disc\n[ ] copper wiring\n[ ] attenuated (thinned) arteries\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@6cef4145ef5145b8a88e37a9f1bdf9c2": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@6cef4145ef5145b8a88e37a9f1bdf9c2": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@6da4c92231504155a470b655d4ef083d": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@6da4c92231504155a470b655d4ef083d": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@710666423edf4977915520d5c49c90f7": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@710666423edf4977915520d5c49c90f7": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@738b13d5704842b68a0ba27b48a299df": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@738b13d5704842b68a0ba27b48a299df": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -711,8 +711,8 @@
       "markdown": null, 
       "showanswer": "never"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@77351a442f1e4ce780b0739c4f0e4d5a": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@77351a442f1e4ce780b0739c4f0e4d5a": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -720,96 +720,96 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[(left optic disc), right optic disc, I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@780acb3a80114fe5bbd2cb82e60cf2f1": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@780acb3a80114fe5bbd2cb82e60cf2f1": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@798a6487d393433a80938123bdd9837e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@798a6487d393433a80938123bdd9837e": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[ ] obscured by the disc\n[x] copper wiring\n[ ] attenuated (thinned) arteries\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@7a2c5074dbec489d9a9445540f2c660c": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@7a2c5074dbec489d9a9445540f2c660c": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[X] disorganised: new vessels\n[ ] obscured by the disc\n[x] copper wiring\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@7f26463914e24670bc0cb235d3ba1cbe": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@7f26463914e24670bc0cb235d3ba1cbe": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@8bfc974f98a04f66865d74b963b0c846": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@8bfc974f98a04f66865d74b963b0c846": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@8efcb196893643e19bda8d8d005c8585": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@8efcb196893643e19bda8d8d005c8585": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[ ] abnormal\n[x] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[ ] obscured by the disc\n[ ] copper wiring\n[ ] attenuated (thinned) arteries\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@8f3dd3c4c2104047807926f5fe7e2c03": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@8f3dd3c4c2104047807926f5fe7e2c03": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[0.4-0.6, (0.1-0.3), 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@92af6ad854b449a6bd9ed5522a7cc000": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@92af6ad854b449a6bd9ed5522a7cc000": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[ ] abnormal\n[x] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[ ] obscured by the disc\n[ ] copper wiring\n[ ] attenuated (thinned) arteries\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@935c421ff2a34b55bd73da619e286854": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@935c421ff2a34b55bd73da619e286854": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[abnormal, (normal), I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@9830a81d7ef241229a604228123c2393": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@9830a81d7ef241229a604228123c2393": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@9c76e8a8386f4cbc85ff788e4d1194fb": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@9c76e8a8386f4cbc85ff788e4d1194fb": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[(normal), abnormal, I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@a0fedb396c8745e1b67c11643e63f53b": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@a0fedb396c8745e1b67c11643e63f53b": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -817,120 +817,120 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[left optic disc, (right optic disc), I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@aeab57da358142829b8c372ee65a0f22": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@aeab57da358142829b8c372ee65a0f22": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@b2cdcf4a6b98489f9a58556f4bc1d516": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@b2cdcf4a6b98489f9a58556f4bc1d516": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@b693675824ff4f4691d786b96d993d5e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@b693675824ff4f4691d786b96d993d5e": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@b6f40b2df6df4913974ac07282d9c5f7": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@b6f40b2df6df4913974ac07282d9c5f7": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@bcafd92a0c714a5585761ed5cc45e885": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@bcafd92a0c714a5585761ed5cc45e885": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@c3b2a8ffe6ae44cdadf55d9cad569b91": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@c3b2a8ffe6ae44cdadf55d9cad569b91": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@c5765784ac0142e49815f1e9847adda4": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@c5765784ac0142e49815f1e9847adda4": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@cd2345eb872f4682b972f0d2c075c8cf": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@cd2345eb872f4682b972f0d2c075c8cf": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@cd39a65f3cd44bb9b46b213f5544726e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@cd39a65f3cd44bb9b46b213f5544726e": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[0.1-0.3, (0.4-0.6), 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@d5d32a9a70b54ce2a6508a949dca771f": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@d5d32a9a70b54ce2a6508a949dca771f": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@d6140ad24b3a4c1a95481310ff589862": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@d6140ad24b3a4c1a95481310ff589862": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@d8c7bc7f6e9a4414ba9411e38a8226d4": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@d8c7bc7f6e9a4414ba9411e38a8226d4": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@d95c7865941c46c1967b18d4ad28c108": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@d95c7865941c46c1967b18d4ad28c108": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@daf64d176f6642a79b4ec479eadb075f": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@daf64d176f6642a79b4ec479eadb075f": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[X] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@dcd6ea2459474355a2e673662fa6e2d2": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@dcd6ea2459474355a2e673662fa6e2d2": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -938,56 +938,56 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[right optic disc, (left optic disc), I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@dd71266cb1d442ad8c86530b71093399": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@dd71266cb1d442ad8c86530b71093399": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Normal or Abnormal?", 
       "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e2134905c60646a3995cd3d08102c284": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e2134905c60646a3995cd3d08102c284": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Colour", 
       "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e237edfa53664778b4bb9c40d6736e01": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e237edfa53664778b4bb9c40d6736e01": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e3e2e7681cd749009541595900f1eaa7": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e3e2e7681cd749009541595900f1eaa7": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e482591c8bfd42d7877c02e7570ef76e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e482591c8bfd42d7877c02e7570ef76e": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[x] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[ ] none of the above\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e74e1ee93a994cedae6c5c196adb4803": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e74e1ee93a994cedae6c5c196adb4803": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@eae933a9b2ad43eabbb9a1431ab8d2aa": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@eae933a9b2ad43eabbb9a1431ab8d2aa": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -995,56 +995,56 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[right optic disc, (left optic disc), I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@ed7c3676ce7d4a759f5281409d51a251": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@ed7c3676ce7d4a759f5281409d51a251": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@ef2a50efb3a94ca390d4efad7a287010": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@ef2a50efb3a94ca390d4efad7a287010": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Vessels", 
       "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[ ] obscured by the disc\n[X] copper wiring\n[X] disorganised: new vessels\n[ ] attenuated (thinned) arteries\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@ef34c293bb254df0a7203075db163782": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@ef34c293bb254df0a7203075db163782": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@f1ea28a1675a44489f09d71760efdda3": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@f1ea28a1675a44489f09d71760efdda3": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Cup:Disc Ratio", 
       "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@f5ec1a0327f349a0b43ae1a3b73855fb": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@f5ec1a0327f349a0b43ae1a3b73855fb": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Rim", 
       "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@f7fe349fcbdf4d0cb8745fb8c6618b2d": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@f7fe349fcbdf4d0cb8745fb8c6618b2d": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[x] optic disc haemorrhage\n[x] cotton wool spots\n[ ] focal loss of retinal detail\n[x] other haemorrhages\n[ ] emboli\n[ ] none of the above"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@fafd6a67de3741c181e049fd43d3ea34": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@fafd6a67de3741c181e049fd43d3ea34": {
     "category": "problem", 
     "children": [], 
     "metadata": {
@@ -1052,233 +1052,233 @@
       "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[left optic disc, (right optic disc), I'm not sure]]\n", 
       "max_attempts": 1
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@fcc6b80950004e2093edd58020f2a50f": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@fcc6b80950004e2093edd58020f2a50f": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Contour (Margin)", 
       "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@feffefa5e18a49f28dfa5434cd150a44": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@feffefa5e18a49f28dfa5434cd150a44": {
     "category": "problem", 
     "children": [], 
     "metadata": {
       "display_name": "Other...", 
       "markdown": ">>The other findings are:<< \n[x] optic disc haemorrhage\n[x] cotton wool spots\n[ ] focal loss of retinal detail\n[x] other haemorrhages\n[ ] emboli\n[ ] none of the above"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@0faeb5f644634cf985fe53e3eec82edc": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@0faeb5f644634cf985fe53e3eec82edc": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@ce369db11e874e5592bb3dec4013d0de"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@ce369db11e874e5592bb3dec4013d0de"
     ], 
     "metadata": {
       "display_name": "Fundus 4", 
       "format": "Midterm Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@1102a73965904d7a98e92673b3d95cd9": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@1102a73965904d7a98e92673b3d95cd9": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@de0709e162204eb9ba534b8af85f0fc4"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@de0709e162204eb9ba534b8af85f0fc4"
     ], 
     "metadata": {
       "display_name": "Identification"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@1d275d0753c643dcb0f2000cc42373cb": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@1d275d0753c643dcb0f2000cc42373cb": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@46040d845a3c4707928d465c04ad1124", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@7f7c83f13e73419f888a057ff3a75abe"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@46040d845a3c4707928d465c04ad1124",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@7f7c83f13e73419f888a057ff3a75abe"
     ], 
     "metadata": {
       "display_name": "Introduction"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@246a5fedaf104fda930dba6201327bcf": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@246a5fedaf104fda930dba6201327bcf": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@45f4dac5af4040ab88af7e25eab02df9"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@45f4dac5af4040ab88af7e25eab02df9"
     ], 
     "metadata": {
       "display_name": "Fundus 4", 
       "format": "Final Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@35c8c18052584f2b8a86b684a2266ac9": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@35c8c18052584f2b8a86b684a2266ac9": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6b07d24d133e44bdbfc0a4dae10f1102"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@6b07d24d133e44bdbfc0a4dae10f1102"
     ], 
     "metadata": {
       "display_name": "Fundus 3", 
       "format": "Final Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@41d76f89ed8c485e9c08f8d764515bf2": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@41d76f89ed8c485e9c08f8d764515bf2": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@acffb9c29f754a8e943163148fc5e0a3"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@acffb9c29f754a8e943163148fc5e0a3"
     ], 
     "metadata": {
       "display_name": "Fundus 1", 
       "format": "Final Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@4c1d8a3203c5483d975cedbc528561e1": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@4c1d8a3203c5483d975cedbc528561e1": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@3ec8aceb5522435f96e97203a97b146b"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@3ec8aceb5522435f96e97203a97b146b"
     ], 
     "metadata": {
       "display_name": "Fundus 5", 
       "format": "Final Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@4c9a7255f36743899270563ddc9976c7": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@4c9a7255f36743899270563ddc9976c7": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@f9bcf12fe0fb4403911958c96d251412"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@f9bcf12fe0fb4403911958c96d251412"
     ], 
     "metadata": {
       "display_name": "Fundus 5", 
       "format": "Midterm Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@5d93aa7800b645f1b22c7bf33bb21f4d": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@5d93aa7800b645f1b22c7bf33bb21f4d": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@9d3152eb85d049beb33362e13d5c7093"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@9d3152eb85d049beb33362e13d5c7093"
     ], 
     "metadata": {
       "display_name": "Fundus 2", 
       "format": "Midterm Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@71ef4b65634b40afb2bc4afb1ce72655": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@71ef4b65634b40afb2bc4afb1ce72655": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@46afb625a93344128efdd3373e2abc6a"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@46afb625a93344128efdd3373e2abc6a"
     ], 
     "metadata": {
       "display_name": "Funduscopy steps revision"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@9dc5d1d563c44c9890c704eb69719b08": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@9dc5d1d563c44c9890c704eb69719b08": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6bc77b3080304fecb2864ba480993e85"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@6bc77b3080304fecb2864ba480993e85"
     ], 
     "metadata": {
       "display_name": "Inquisition!"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@9f1e58553ad448818ec8e7915d3d94d3": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@9f1e58553ad448818ec8e7915d3d94d3": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@b928cdb68e0640a49b3da95f30921eab"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@b928cdb68e0640a49b3da95f30921eab"
     ], 
     "metadata": {
       "display_name": "Learning outcomes"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@a7f962a43af749b5807856e151baaf15": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@a7f962a43af749b5807856e151baaf15": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6bb0481bd1df40ffb3384cc84bb17e07"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@6bb0481bd1df40ffb3384cc84bb17e07"
     ], 
     "metadata": {
       "display_name": "Fundus 1", 
       "format": "Midterm Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@af6ea5eef3964b40843677bb76d3d7af": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@af6ea5eef3964b40843677bb76d3d7af": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@ab4e05ca705047d0af6c18802b1f3131"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@ab4e05ca705047d0af6c18802b1f3131"
     ], 
     "metadata": {
       "display_name": "Fundus 2", 
       "format": "Final Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@d3ba8d33497b4e9e984f849e6a0300af": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@d3ba8d33497b4e9e984f849e6a0300af": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@37c22efe0f8340e09c60fc113a4cc5b8", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@f5523d81d2b5459abcc972d7081fe989", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@2bf6208e39c8434ea1891346a91cd0ea"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@37c22efe0f8340e09c60fc113a4cc5b8",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@f5523d81d2b5459abcc972d7081fe989",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@2bf6208e39c8434ea1891346a91cd0ea"
     ], 
     "metadata": {
       "display_name": "Videos"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@e1ca991d2cc647dd87d56a711c0d9412": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@e1ca991d2cc647dd87d56a711c0d9412": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@50c737f1b8b945a9a31b5de5e03d2d62"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@50c737f1b8b945a9a31b5de5e03d2d62"
     ], 
     "metadata": {
       "display_name": "Fundus 3", 
       "format": "Midterm Exam", 
       "graded": true
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@e504a5d3859e4ba6a4cf4388c9057a6a": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@e504a5d3859e4ba6a4cf4388c9057a6a": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@75a8ca61a26343a7ab83acaec3e5f4e8"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@75a8ca61a26343a7ab83acaec3e5f4e8"
     ], 
     "metadata": {
       "display_name": "Retina"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@f052c7aa44274769a4631e95405834e0": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@f052c7aa44274769a4631e95405834e0": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@f67b6cc4c8324764bdbb74c84b5868f0"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@f67b6cc4c8324764bdbb74c84b5868f0"
     ], 
     "metadata": {
       "display_name": "Structure"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@fac8649a4c3b4ee48a09d183c42f5017": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@fac8649a4c3b4ee48a09d183c42f5017": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@7bd17b120f56413f9b3bbf5ea0fb1e2e"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@7bd17b120f56413f9b3bbf5ea0fb1e2e"
     ], 
     "metadata": {
       "display_name": "Introduction"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@fef187417e774d829441061abbaedd9c": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@sequential+block@fef187417e774d829441061abbaedd9c": {
     "category": "sequential", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@117924c1177044c2bf4b979e6d36ac56", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@5c3b6add1c12488fb9275b9148c439ca", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@440d94715c6542fa8b846dadbbc3cd4f", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@28aeeda981484535a3f30413219b46b8", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@d8aa971d31f04b94a7ee031f3eab77ef", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@2617d58017ec44a7b69eeef00f572d5f", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@3325aa37e7cb42fb83e89e2fa55df7da"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@117924c1177044c2bf4b979e6d36ac56",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@5c3b6add1c12488fb9275b9148c439ca",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@440d94715c6542fa8b846dadbbc3cd4f",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@28aeeda981484535a3f30413219b46b8",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@d8aa971d31f04b94a7ee031f3eab77ef",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@2617d58017ec44a7b69eeef00f572d5f",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@3325aa37e7cb42fb83e89e2fa55df7da"
     ], 
     "metadata": {
       "display_name": "Mnemonics"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@survey+block@f8925ef8f6a44b8c9e707afdbfeb3b57": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@survey+block@f8925ef8f6a44b8c9e707afdbfeb3b57": {
     "category": "survey", 
     "children": [], 
     "metadata": {
@@ -1319,364 +1319,364 @@
         ]
       ]
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@117924c1177044c2bf4b979e6d36ac56": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@117924c1177044c2bf4b979e6d36ac56": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@6d6ffaff23c0420a904ab29f7df66991"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@6d6ffaff23c0420a904ab29f7df66991"
     ], 
     "metadata": {
       "display_name": "CCCRVO"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@2617d58017ec44a7b69eeef00f572d5f": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@2617d58017ec44a7b69eeef00f572d5f": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@e0b2c92535a64426b9f6b8c826b1d1b9", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@5e3a8624ca004975a2249accd83efd99", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@1e78ec13e47641929dcdc14a0b0c63ea", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@97586baa5d5545a8a83a90fd846430e8", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@bb57ac8055da48e084610dd451280554"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@e0b2c92535a64426b9f6b8c826b1d1b9",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@5e3a8624ca004975a2249accd83efd99",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@1e78ec13e47641929dcdc14a0b0c63ea",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@video+block@97586baa5d5545a8a83a90fd846430e8",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@bb57ac8055da48e084610dd451280554"
     ], 
     "metadata": {
       "display_name": "VESSELS"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@28aeeda981484535a3f30413219b46b8": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@28aeeda981484535a3f30413219b46b8": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@3e1a2974ec81491490f0dd57066664ea", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@2eed0e5040b74ac698b36d109781b068", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@86ab4162edaa4651b28b467444fdc1ba", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@e2e9020d8a3b4024b4e2e08d24c243eb", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@1c88aa5fddb343f9896c2da1b78cd5dd"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@3e1a2974ec81491490f0dd57066664ea",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@2eed0e5040b74ac698b36d109781b068",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@86ab4162edaa4651b28b467444fdc1ba",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@e2e9020d8a3b4024b4e2e08d24c243eb",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@1c88aa5fddb343f9896c2da1b78cd5dd"
     ], 
     "metadata": {
       "display_name": "COLOUR"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@2bf6208e39c8434ea1891346a91cd0ea": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@2bf6208e39c8434ea1891346a91cd0ea": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@e5637196c9ae464298d72e72cd4c542d"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@video+block@e5637196c9ae464298d72e72cd4c542d"
     ], 
     "metadata": {
       "display_name": "D-EYE"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@3325aa37e7cb42fb83e89e2fa55df7da": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@3325aa37e7cb42fb83e89e2fa55df7da": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@a650bcee6e374b7f804bfb5975efa975"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@a650bcee6e374b7f804bfb5975efa975"
     ], 
     "metadata": {
       "display_name": "OTHER"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@37c22efe0f8340e09c60fc113a4cc5b8": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@37c22efe0f8340e09c60fc113a4cc5b8": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@9608e85c38b94c3aa91a5de37c94aa4d"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@video+block@9608e85c38b94c3aa91a5de37c94aa4d"
     ], 
     "metadata": {
       "display_name": "Direct ophthalmoscope"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@3ec8aceb5522435f96e97203a97b146b": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@3ec8aceb5522435f96e97203a97b146b": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@f20ff41a5e5f4d848e7bc22b3b76a18c", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@77351a442f1e4ce780b0739c4f0e4d5a", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@012a9eb325894a879b9e089b82323b7e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@6cef4145ef5145b8a88e37a9f1bdf9c2", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e2134905c60646a3995cd3d08102c284", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@f1ea28a1675a44489f09d71760efdda3", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@bcafd92a0c714a5585761ed5cc45e885", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@ef2a50efb3a94ca390d4efad7a287010", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@07df45e59e374ebd91deb4009cbde9e6"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@f20ff41a5e5f4d848e7bc22b3b76a18c",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@77351a442f1e4ce780b0739c4f0e4d5a",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@012a9eb325894a879b9e089b82323b7e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@6cef4145ef5145b8a88e37a9f1bdf9c2",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e2134905c60646a3995cd3d08102c284",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@f1ea28a1675a44489f09d71760efdda3",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@bcafd92a0c714a5585761ed5cc45e885",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@ef2a50efb3a94ca390d4efad7a287010",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@07df45e59e374ebd91deb4009cbde9e6"
     ], 
     "metadata": {
       "display_name": "Fundus 5"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@440d94715c6542fa8b846dadbbc3cd4f": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@440d94715c6542fa8b846dadbbc3cd4f": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@8eb6b4ee9e0546fca0a4facc8ab7a71a", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@0623d0e182aa46b1b712afb8bec09c4c", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@f480220d40314fd4b3f0d2edf07c8452"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@8eb6b4ee9e0546fca0a4facc8ab7a71a",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@0623d0e182aa46b1b712afb8bec09c4c",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@f480220d40314fd4b3f0d2edf07c8452"
     ], 
     "metadata": {
       "display_name": "CUP:DISC RATIO (CDR)"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@45f4dac5af4040ab88af7e25eab02df9": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@45f4dac5af4040ab88af7e25eab02df9": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@fd7410064f29429c8bf8df1b04106b5e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4c1f165fac0e401b9d6fb23edaedb4fd", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@9c76e8a8386f4cbc85ff788e4d1194fb", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2d08384c84e249ce96cc1a704a7b1c0c", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4d4552bde16145e2b2f6d37f44b71a3b", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e74e1ee93a994cedae6c5c196adb4803", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@d8c7bc7f6e9a4414ba9411e38a8226d4", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@8efcb196893643e19bda8d8d005c8585", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@35ec1ff64d1d437fb9388656955a53d4"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@fd7410064f29429c8bf8df1b04106b5e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4c1f165fac0e401b9d6fb23edaedb4fd",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@9c76e8a8386f4cbc85ff788e4d1194fb",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2d08384c84e249ce96cc1a704a7b1c0c",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4d4552bde16145e2b2f6d37f44b71a3b",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e74e1ee93a994cedae6c5c196adb4803",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@d8c7bc7f6e9a4414ba9411e38a8226d4",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@8efcb196893643e19bda8d8d005c8585",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@35ec1ff64d1d437fb9388656955a53d4"
     ], 
     "metadata": {
       "display_name": "Fundus 4"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@46040d845a3c4707928d465c04ad1124": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@46040d845a3c4707928d465c04ad1124": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@6668b058f05b44d1ab5969ac6d807dbc", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@d1d1d6f331b54db8adba7f9917868501"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@6668b058f05b44d1ab5969ac6d807dbc",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@d1d1d6f331b54db8adba7f9917868501"
     ], 
     "metadata": {
       "display_name": "Summary"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@46afb625a93344128efdd3373e2abc6a": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@46afb625a93344128efdd3373e2abc6a": {
     "category": "vertical", 
     "children": [], 
     "metadata": {
       "display_name": "Unit"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@50c737f1b8b945a9a31b5de5e03d2d62": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@50c737f1b8b945a9a31b5de5e03d2d62": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@dff14aa57ffc4c6cabc068b47b48e70e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@eae933a9b2ad43eabbb9a1431ab8d2aa", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@935c421ff2a34b55bd73da619e286854", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@56e9319918984a41a441d28dc94ce72f", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0bd25e1595f34993a6e0031b9108e8a8", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@ed7c3676ce7d4a759f5281409d51a251", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@f5ec1a0327f349a0b43ae1a3b73855fb", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@92af6ad854b449a6bd9ed5522a7cc000", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@5126a2ba3d2a41d685ebfc97dc7cdf3c"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@dff14aa57ffc4c6cabc068b47b48e70e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@eae933a9b2ad43eabbb9a1431ab8d2aa",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@935c421ff2a34b55bd73da619e286854",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@56e9319918984a41a441d28dc94ce72f",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0bd25e1595f34993a6e0031b9108e8a8",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@ed7c3676ce7d4a759f5281409d51a251",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@f5ec1a0327f349a0b43ae1a3b73855fb",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@92af6ad854b449a6bd9ed5522a7cc000",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@5126a2ba3d2a41d685ebfc97dc7cdf3c"
     ], 
     "metadata": {
       "display_name": "Fundus 3"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@5c3b6add1c12488fb9275b9148c439ca": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@5c3b6add1c12488fb9275b9148c439ca": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@9339fce42fcf45d4ac002f17226fcb3a", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@e06b3beaf54149e88ee8985d765cba5a"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@9339fce42fcf45d4ac002f17226fcb3a",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@e06b3beaf54149e88ee8985d765cba5a"
     ], 
     "metadata": {
       "display_name": "CONTOUR (Margin of the disc)"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6b07d24d133e44bdbfc0a4dae10f1102": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@6b07d24d133e44bdbfc0a4dae10f1102": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@21ab789d458848a3a0a5a4e6ceb50af4", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2ef9fea9b75843798fa9ea796c257e39", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@03162688466f4e2a8753669db60c63b6", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e237edfa53664778b4bb9c40d6736e01", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@b6f40b2df6df4913974ac07282d9c5f7", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@b693675824ff4f4691d786b96d993d5e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0c9014f5cbc046a59156c9f4cb20f173", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@798a6487d393433a80938123bdd9837e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@f7fe349fcbdf4d0cb8745fb8c6618b2d"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@21ab789d458848a3a0a5a4e6ceb50af4",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2ef9fea9b75843798fa9ea796c257e39",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@03162688466f4e2a8753669db60c63b6",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e237edfa53664778b4bb9c40d6736e01",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@b6f40b2df6df4913974ac07282d9c5f7",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@b693675824ff4f4691d786b96d993d5e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0c9014f5cbc046a59156c9f4cb20f173",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@798a6487d393433a80938123bdd9837e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@f7fe349fcbdf4d0cb8745fb8c6618b2d"
     ], 
     "metadata": {
       "display_name": "Fundus 3"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6bb0481bd1df40ffb3384cc84bb17e07": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@6bb0481bd1df40ffb3384cc84bb17e07": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@603ed8ad83f34cdfa9264048710b4de6", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@dcd6ea2459474355a2e673662fa6e2d2", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@d5d32a9a70b54ce2a6508a949dca771f", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@fcc6b80950004e2093edd58020f2a50f", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@9830a81d7ef241229a604228123c2393", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@8f3dd3c4c2104047807926f5fe7e2c03", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@b2cdcf4a6b98489f9a58556f4bc1d516", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0d0d152bff1e4a4194e677feb2cf158f", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0fd63b19884d4b199ff10b0f636e5cdb"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@603ed8ad83f34cdfa9264048710b4de6",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@dcd6ea2459474355a2e673662fa6e2d2",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@d5d32a9a70b54ce2a6508a949dca771f",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@fcc6b80950004e2093edd58020f2a50f",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@9830a81d7ef241229a604228123c2393",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@8f3dd3c4c2104047807926f5fe7e2c03",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@b2cdcf4a6b98489f9a58556f4bc1d516",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0d0d152bff1e4a4194e677feb2cf158f",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0fd63b19884d4b199ff10b0f636e5cdb"
     ], 
     "metadata": {
       "display_name": "Fundus 1"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6bc77b3080304fecb2864ba480993e85": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@6bc77b3080304fecb2864ba480993e85": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4e2b223acaa7405e95948bf686fbb017", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@738b13d5704842b68a0ba27b48a299df", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@survey+block@f8925ef8f6a44b8c9e707afdbfeb3b57", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@discussion+block@837b809ed1e64651951e6ea7ed3b6ee1"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4e2b223acaa7405e95948bf686fbb017",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@738b13d5704842b68a0ba27b48a299df",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@survey+block@f8925ef8f6a44b8c9e707afdbfeb3b57",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@discussion+block@837b809ed1e64651951e6ea7ed3b6ee1"
     ], 
     "metadata": {
       "display_name": "Survey"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@75a8ca61a26343a7ab83acaec3e5f4e8": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@75a8ca61a26343a7ab83acaec3e5f4e8": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@a0f918075a134bef8873e601adb0948e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0249a8c7a4d14dd98988f145b4912ea1"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@a0f918075a134bef8873e601adb0948e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0249a8c7a4d14dd98988f145b4912ea1"
     ], 
     "metadata": {
       "display_name": "Retinal diagram"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@7bd17b120f56413f9b3bbf5ea0fb1e2e": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@7bd17b120f56413f9b3bbf5ea0fb1e2e": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@5671bfeb26e54260a251d4db35a2c940"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@5671bfeb26e54260a251d4db35a2c940"
     ], 
     "metadata": {
       "display_name": "Summary"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@7f7c83f13e73419f888a057ff3a75abe": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@7f7c83f13e73419f888a057ff3a75abe": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@f68c330dfa5a4cc8b200e2358f3117d9"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@f68c330dfa5a4cc8b200e2358f3117d9"
     ], 
     "metadata": {
       "display_name": "Importance"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@9d3152eb85d049beb33362e13d5c7093": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@9d3152eb85d049beb33362e13d5c7093": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@ee0f341deb704d858628797ca636ed8d", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@fafd6a67de3741c181e049fd43d3ea34", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@d95c7865941c46c1967b18d4ad28c108", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@8bfc974f98a04f66865d74b963b0c846", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@3ecb54c8d41147419f3ac086b510b92a", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@cd39a65f3cd44bb9b46b213f5544726e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@7f26463914e24670bc0cb235d3ba1cbe", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@247cf306339540c5bae1083eba574d42", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e482591c8bfd42d7877c02e7570ef76e"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@ee0f341deb704d858628797ca636ed8d",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@fafd6a67de3741c181e049fd43d3ea34",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@d95c7865941c46c1967b18d4ad28c108",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@8bfc974f98a04f66865d74b963b0c846",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@3ecb54c8d41147419f3ac086b510b92a",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@cd39a65f3cd44bb9b46b213f5544726e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@7f26463914e24670bc0cb235d3ba1cbe",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@247cf306339540c5bae1083eba574d42",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e482591c8bfd42d7877c02e7570ef76e"
     ], 
     "metadata": {
       "display_name": "Fundus 2"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@ab4e05ca705047d0af6c18802b1f3131": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@ab4e05ca705047d0af6c18802b1f3131": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@bfc9e63212a84b5c9474f2bf2240261e", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0cea2374dbe24d378a62c355142de9c6", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@aeab57da358142829b8c372ee65a0f22", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2df49b765d5c4b6a9b1719ea18236724", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@1ee3d269768b43798f2871a2f5813e23", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@780acb3a80114fe5bbd2cb82e60cf2f1", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@daf64d176f6642a79b4ec479eadb075f", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@6952fe3c224d4674a82d7db5abc5ab17", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@20599252806e4c84b85a069d6cec9109"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@bfc9e63212a84b5c9474f2bf2240261e",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0cea2374dbe24d378a62c355142de9c6",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@aeab57da358142829b8c372ee65a0f22",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2df49b765d5c4b6a9b1719ea18236724",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@1ee3d269768b43798f2871a2f5813e23",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@780acb3a80114fe5bbd2cb82e60cf2f1",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@daf64d176f6642a79b4ec479eadb075f",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@6952fe3c224d4674a82d7db5abc5ab17",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@20599252806e4c84b85a069d6cec9109"
     ], 
     "metadata": {
       "display_name": "Fundus 2"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@acffb9c29f754a8e943163148fc5e0a3": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@acffb9c29f754a8e943163148fc5e0a3": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@8987b9ad71794311ad90fec713a8f27c", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@25af4b24fad44d55952a3ec4b13f1b49", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@dd71266cb1d442ad8c86530b71093399", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4ed7cf02d41245ee907f20d94bf332e3", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@c3b2a8ffe6ae44cdadf55d9cad569b91", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@357835701b214c28bd75909a16664116", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e3e2e7681cd749009541595900f1eaa7", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@7a2c5074dbec489d9a9445540f2c660c", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@feffefa5e18a49f28dfa5434cd150a44"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@8987b9ad71794311ad90fec713a8f27c",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@25af4b24fad44d55952a3ec4b13f1b49",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@dd71266cb1d442ad8c86530b71093399",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4ed7cf02d41245ee907f20d94bf332e3",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@c3b2a8ffe6ae44cdadf55d9cad569b91",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@357835701b214c28bd75909a16664116",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@e3e2e7681cd749009541595900f1eaa7",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@7a2c5074dbec489d9a9445540f2c660c",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@feffefa5e18a49f28dfa5434cd150a44"
     ], 
     "metadata": {
       "display_name": "Fundus 1"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@b928cdb68e0640a49b3da95f30921eab": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@b928cdb68e0640a49b3da95f30921eab": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@04b5a8d07baa4a2ea1eaeb75f5a35a10"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@04b5a8d07baa4a2ea1eaeb75f5a35a10"
     ], 
     "metadata": {
       "display_name": "Outline"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@ce369db11e874e5592bb3dec4013d0de": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@ce369db11e874e5592bb3dec4013d0de": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@cc8396952ef74b9ba9363e67c49786dc", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@51ab92040d63451b818ca78aff909a03", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@c5765784ac0142e49815f1e9847adda4", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@cd2345eb872f4682b972f0d2c075c8cf", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0feca91e169c42d09fb10cfebeefd1ac", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@710666423edf4977915520d5c49c90f7", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@47f34b8b7a9d449ba45799ab481248f5", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2c90408e0f5549019b29e4bc9a8fb646", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@140487e6cdc541a6913f297f5940acbb"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@cc8396952ef74b9ba9363e67c49786dc",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@51ab92040d63451b818ca78aff909a03",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@c5765784ac0142e49815f1e9847adda4",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@cd2345eb872f4682b972f0d2c075c8cf",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@0feca91e169c42d09fb10cfebeefd1ac",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@710666423edf4977915520d5c49c90f7",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@47f34b8b7a9d449ba45799ab481248f5",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2c90408e0f5549019b29e4bc9a8fb646",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@140487e6cdc541a6913f297f5940acbb"
     ], 
     "metadata": {
       "display_name": "Fundus 4"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@d8aa971d31f04b94a7ee031f3eab77ef": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@d8aa971d31f04b94a7ee031f3eab77ef": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@792b64ec734d41659b9c97fa152fbc72", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@a9421439a41044f8b2bb9dedd097f1c2"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@792b64ec734d41659b9c97fa152fbc72",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@a9421439a41044f8b2bb9dedd097f1c2"
     ], 
     "metadata": {
       "display_name": "RIM"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@de0709e162204eb9ba534b8af85f0fc4": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@de0709e162204eb9ba534b8af85f0fc4": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@drag-and-drop-v2+block@7b1374a68b4047abb747e5a6e389820c"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@drag-and-drop-v2+block@7b1374a68b4047abb747e5a6e389820c"
     ], 
     "metadata": {
       "display_name": "Identification"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@f5523d81d2b5459abcc972d7081fe989": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@f5523d81d2b5459abcc972d7081fe989": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@8cd819c14fdd4e8db96fd5ce3d686275"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@video+block@8cd819c14fdd4e8db96fd5ce3d686275"
     ], 
     "metadata": {
       "display_name": "Welch Allyn iExaminer"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@f67b6cc4c8324764bdbb74c84b5868f0": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@f67b6cc4c8324764bdbb74c84b5868f0": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@5aedbb5451f348b484ff696093d81949"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@5aedbb5451f348b484ff696093d81949"
     ], 
     "metadata": {
       "display_name": "Plan"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@f9bcf12fe0fb4403911958c96d251412": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@vertical+block@f9bcf12fe0fb4403911958c96d251412": {
     "category": "vertical", 
     "children": [
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@2c019e84d5b04429b701a9d239fd94bf", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@a0fedb396c8745e1b67c11643e63f53b", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@4c55ed92d6784013a0bbbf442e547ab1", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@ef34c293bb254df0a7203075db163782", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@d6140ad24b3a4c1a95481310ff589862", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@04f26761f6794f49a531f45794568900", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@6da4c92231504155a470b655d4ef083d", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@3a2626b92fad4c009efa08a2e809eaf0", 
-      "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2bf60205809142e9b60e31678c74d776"
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@html+block@2c019e84d5b04429b701a9d239fd94bf",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@a0fedb396c8745e1b67c11643e63f53b",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@4c55ed92d6784013a0bbbf442e547ab1",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@ef34c293bb254df0a7203075db163782",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@d6140ad24b3a4c1a95481310ff589862",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@04f26761f6794f49a531f45794568900",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@6da4c92231504155a470b655d4ef083d",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@3a2626b92fad4c009efa08a2e809eaf0",
+      "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@problem+block@2bf60205809142e9b60e31678c74d776"
     ], 
     "metadata": {
       "display_name": "Fundus 5"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@8cd819c14fdd4e8db96fd5ce3d686275": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@video+block@8cd819c14fdd4e8db96fd5ce3d686275": {
     "category": "video", 
     "children": [], 
     "metadata": {
@@ -1686,8 +1686,8 @@
       "sub": "", 
       "youtube_id_1_0": "sDYnY7q0UBY"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@9608e85c38b94c3aa91a5de37c94aa4d": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@video+block@9608e85c38b94c3aa91a5de37c94aa4d": {
     "category": "video", 
     "children": [], 
     "metadata": {
@@ -1697,8 +1697,8 @@
       "sub": "", 
       "youtube_id_1_0": "-vHWhypyUIc"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@97586baa5d5545a8a83a90fd846430e8": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@video+block@97586baa5d5545a8a83a90fd846430e8": {
     "category": "video", 
     "children": [], 
     "metadata": {
@@ -1708,8 +1708,8 @@
       "sub": "", 
       "youtube_id_1_0": "SNmIkFs2MZI"
     }
-  }, 
-  "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@e5637196c9ae464298d72e72cd4c542d": {
+  },
+  "block-v1:UniversityOfSydney+OPHTH101+2017_T2+type@video+block@e5637196c9ae464298d72e72cd4c542d": {
     "category": "video", 
     "children": [], 
     "metadata": {

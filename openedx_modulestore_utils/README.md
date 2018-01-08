@@ -38,10 +38,10 @@ Then in MySQL:
     CREATE TABLE parsed_ms (
       block_id varchar(100) NOT NULL PRIMARY KEY,
       category varchar(20) NOT NULL,
-      display_name varchar(20) NOT NULL,
-      exam varchar(20) NOT NULL,
+      display_name varchar(20),
+      exam varchar(20),
       INDEX(category), INDEX(exam)
-    ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+    ) DEFAULT CHARSET=utf8;
     
     LOAD DATA LOCAL INFILE '/tmp/ms.csv' INTO TABLE parsed_ms
     FIELDS TERMINATED BY '\t'

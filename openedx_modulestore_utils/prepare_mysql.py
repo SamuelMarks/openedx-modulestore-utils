@@ -9,7 +9,7 @@ from utils import pp, pdata
 def to_filtered_csv(ms, output_fname):
     with open(output_fname, 'wt', encoding='utf8') as f:
         f.write('block_id\tcategory\tdisplay_name\texam\n')
-        f.write('\n'.join('\t'.join('\\N' if val is None else '"{}"'.format(val)
+        f.write('\n'.join('\t'.join('"\\N"' if val is None else '"{}"'.format(val)
                                     for val in (k, v['category'], v['metadata'].get('display_name'),
                                                 v['metadata'].get('exam')))
                           for k, v in ms.iteritems()))
