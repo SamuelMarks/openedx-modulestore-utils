@@ -9,7 +9,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@4c9a7255f36743899270563ddc9976c7"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Pre-Training Test",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@4982532eeb324bc787cf151c6f4f8771": {
@@ -22,7 +23,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@sequential+block@4c1d8a3203c5483d975cedbc528561e1"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Post-Training Test",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@chapter+block@5b053a7f10ba41df85a3221c3ef3956e": {
@@ -206,14 +208,16 @@
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Text",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@2c019e84d5b04429b701a9d239fd94bf": {
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Text",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@2eed0e5040b74ac698b36d109781b068": {
@@ -242,7 +246,7 @@
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@6668b058f05b44d1ab5969ac6d807dbc": {
@@ -271,7 +275,8 @@
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Text",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@8eb6b4ee9e0546fca0a4facc8ab7a71a": {
@@ -316,14 +321,16 @@
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Text",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@cc8396952ef74b9ba9363e67c49786dc": {
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Text",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@d1d1d6f331b54db8adba7f9917868501": {
@@ -337,7 +344,8 @@
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Text",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@e06b3beaf54149e88ee8985d765cba5a": {
@@ -361,14 +369,16 @@
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Text",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@f20ff41a5e5f4d848e7bc22b3b76a18c": {
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Text",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@html+block@f480220d40314fd4b3f0d2edf07c8452": {
@@ -385,14 +395,16 @@
         "category": "html", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Text",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@012a9eb325894a879b9e089b82323b7e": {
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Post-Training Test",
             "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
         }
     }, 
@@ -408,7 +420,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Post-Training Test",
             "markdown": ">>This disc is:<<\n[[(abnormal), normal, I'm not sure]]\n\n\n"
         }
     }, 
@@ -416,7 +429,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Pre-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -424,7 +438,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Other...",
+          "exam": "Post-Training Test",
             "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[X] none of the above"
         }
     }, 
@@ -432,7 +447,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Colour",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
         }
     }, 
@@ -440,7 +456,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Rim",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
         }
     }, 
@@ -448,7 +465,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Post-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[left optic disc, (right optic disc), I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -457,7 +475,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Pre-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[ ] obscured by the disc\n[x] copper wiring\n"
         }
     }, 
@@ -465,7 +484,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Other...",
+          "exam": "Pre-Training Test",
             "markdown": ">>The other findings are:<< \n[x] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[x] other haemorrhages\n[ ] emboli\n[ ] none of the above"
         }
     }, 
@@ -473,7 +493,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Colour",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc colour is:<<\n[[(pale), normal, hyperaemic - pink or red]]\n"
         }
     }, 
@@ -481,7 +502,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Other...",
+          "exam": "Pre-Training Test",
             "markdown": ">>The other findings are:<< \n[x] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n"
         }
     }, 
@@ -489,7 +511,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Colour",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc colour is:<<\n[[(pale), normal, hyperaemic - pink or red]]\n"
         }
     }, 
@@ -497,7 +520,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Other...",
+          "exam": "Post-Training Test",
             "markdown": ">>The other findings are:<< \n[X] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[X] other haemorrhages\n[ ] emboli\n[ ] none of the above\n\n"
         }
     }, 
@@ -505,7 +529,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Pre-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[x] obscured by the disc\n[ ] copper wiring\n[x] attenuated (thinned) arteries\n"
         }
     }, 
@@ -513,7 +538,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Post-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[right optic disc, (left optic disc), I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -522,7 +548,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Other...",
+          "exam": "Pre-Training Test",
             "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[X] none of the above"
         }
     }, 
@@ -530,7 +557,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Pre-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[x] obscured by the disc\n[ ] copper wiring\n[ ] attenuated (thinned) arteries\n"
         }
     }, 
@@ -538,7 +566,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
         }
     }, 
@@ -546,7 +575,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
         }
     }, 
@@ -554,7 +584,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Post-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[(right optic disc), left optic disc, I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -563,7 +594,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Post-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[0.4-0.6, (0.1-0.3), 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -571,7 +603,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Other...",
+          "exam": "Post-Training Test",
             "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[ ] none of the above"
         }
     }, 
@@ -579,7 +612,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Pre-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[ ] obscured by the disc\n[ ] copper wiring\n[X] disorganised: new vessels\n[ ] attenuated (thinned) arteries\n"
         }
     }, 
@@ -587,7 +621,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Colour",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
         }
     }, 
@@ -595,7 +630,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Rim",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[X] swollen/elevated"
         }
     }, 
@@ -603,7 +639,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Post-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[(right optic disc), left optic disc, I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -612,7 +649,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
         }
     }, 
@@ -620,7 +658,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Colour",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
         }
     }, 
@@ -636,7 +675,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
         }
     }, 
@@ -644,7 +684,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Other...",
+          "exam": "Pre-Training Test",
             "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[ ] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[ ] none of the above"
         }
     }, 
@@ -652,7 +693,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[right optic disc, (left optic disc), I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -661,7 +703,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
         }
     }, 
@@ -677,7 +720,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Post-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[x] obscured by the disc\n[ ] copper wiring\n[ ] attenuated (thinned) arteries\n"
         }
     }, 
@@ -685,7 +729,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
         }
     }, 
@@ -693,7 +738,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Rim",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
         }
     }, 
@@ -701,7 +747,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Pre-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -718,7 +765,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Post-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[(left optic disc), right optic disc, I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -727,7 +775,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Post-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -735,7 +784,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Post-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[x] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[ ] obscured by the disc\n[x] copper wiring\n[ ] attenuated (thinned) arteries\n"
         }
     }, 
@@ -743,7 +793,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Post-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[X] disorganised: new vessels\n[ ] obscured by the disc\n[x] copper wiring\n"
         }
     }, 
@@ -751,7 +802,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Rim",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
         }
     }, 
@@ -759,7 +811,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
         }
     }, 
@@ -767,7 +820,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Post-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[ ] abnormal\n[x] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[ ] obscured by the disc\n[ ] copper wiring\n[ ] attenuated (thinned) arteries\n"
         }
     }, 
@@ -775,7 +829,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Pre-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[0.4-0.6, (0.1-0.3), 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -783,7 +838,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Pre-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[ ] abnormal\n[x] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[ ] disorganised: new vessels\n[ ] obscured by the disc\n[ ] copper wiring\n[ ] attenuated (thinned) arteries\n"
         }
     }, 
@@ -791,7 +847,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This disc is:<<\n[[abnormal, (normal), I'm not sure]]\n\n\n"
         }
     }, 
@@ -799,7 +856,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Colour",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
         }
     }, 
@@ -807,7 +865,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Post-Training Test",
             "markdown": ">>This disc is:<<\n[[(normal), abnormal, I'm not sure]]\n\n\n"
         }
     }, 
@@ -815,7 +874,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[left optic disc, (right optic disc), I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -824,7 +884,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Post-Training Test",
             "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
         }
     }, 
@@ -832,7 +893,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Rim",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
         }
     }, 
@@ -840,7 +902,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Post-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -848,7 +911,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Colour",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
         }
     }, 
@@ -856,7 +920,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Rim",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
         }
     }, 
@@ -864,7 +929,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Colour",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
         }
     }, 
@@ -872,7 +938,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
         }
     }, 
@@ -880,7 +947,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
         }
     }, 
@@ -888,7 +956,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Pre-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[0.1-0.3, (0.4-0.6), 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -896,7 +965,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
         }
     }, 
@@ -904,7 +974,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Colour",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
         }
     }, 
@@ -912,7 +983,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Rim",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
         }
     }, 
@@ -920,7 +992,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
         }
     }, 
@@ -928,7 +1001,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Rim",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[X] swollen/elevated"
         }
     }, 
@@ -936,7 +1010,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[right optic disc, (left optic disc), I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -945,7 +1020,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Normal or Abnormal?",
+          "exam": "Post-Training Test",
             "markdown": ">>This disc is:<<\n[[normal, (abnormal), I'm not sure]]\n\n\n"
         }
     }, 
@@ -953,7 +1029,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Colour",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc colour is:<<\n[[pale, (normal), hyperaemic - pink or red]]\n"
         }
     }, 
@@ -961,7 +1038,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
         }
     }, 
@@ -969,7 +1047,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Rim",
+          "exam": "Post-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
         }
     }, 
@@ -977,7 +1056,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Other...",
+          "exam": "Pre-Training Test",
             "markdown": ">>The other findings are:<< \n[ ] optic disc haemorrhage\n[ ] cotton wool spots\n[x] focal loss of retinal detail\n[ ] other haemorrhages\n[ ] emboli\n[ ] none of the above\n\n"
         }
     }, 
@@ -985,7 +1065,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Post-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -993,7 +1074,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[right optic disc, (left optic disc), I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -1002,7 +1084,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Pre-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -1010,7 +1093,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Vessels",
+          "exam": "Post-Training Test",
             "markdown": ">>The retinal vessels are/show:<< \n[x] abnormal\n[ ] normal\n[ ] dilated veins\n[ ] arteriovenous nipping\n[ ] obscured by the disc\n[X] copper wiring\n[X] disorganised: new vessels\n[ ] attenuated (thinned) arteries\n"
         }
     }, 
@@ -1018,7 +1102,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[(well defined), blurry, I'm not sure]]\n\n"
         }
     }, 
@@ -1026,7 +1111,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Cup:Disc Ratio",
+          "exam": "Post-Training Test",
             "markdown": ">>The Cup:Disc Ratio is roughly:<<\n[[(0.1-0.3), 0.4-0.6, 0.7-0.9]]\n\n\n"
         }
     }, 
@@ -1034,7 +1120,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Rim",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc rim is:<< \n[x] even\n[ ] thin superiorly\n[ ] thin inferiorly\n[ ] thin nasally\n[ ] swollen/elevated"
         }
     }, 
@@ -1042,7 +1129,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Other...",
+          "exam": "Post-Training Test",
             "markdown": ">>The other findings are:<< \n[x] optic disc haemorrhage\n[x] cotton wool spots\n[ ] focal loss of retinal detail\n[x] other haemorrhages\n[ ] emboli\n[ ] none of the above"
         }
     }, 
@@ -1050,7 +1138,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Which side?",
+          "exam": "Pre-Training Test",
             "markdown": ">>This is a picture of a:||Which way do the vessels enter the eye from the disc?. <<\n[[left optic disc, (right optic disc), I'm not sure]]\n", 
             "max_attempts": 1
         }
@@ -1059,7 +1148,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Contour (Margin)",
+          "exam": "Pre-Training Test",
             "markdown": ">>The disc contour (margin) is:<<\n[[well defined, (blurry), I'm not sure]]\n\n"
         }
     }, 
@@ -1067,7 +1157,8 @@
         "category": "problem", 
         "children": [], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Other...",
+          "exam": "Post-Training Test",
             "markdown": ">>The other findings are:<< \n[x] optic disc haemorrhage\n[x] cotton wool spots\n[ ] focal loss of retinal detail\n[x] other haemorrhages\n[ ] emboli\n[ ] none of the above"
         }
     }, 
@@ -1077,7 +1168,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@ce369db11e874e5592bb3dec4013d0de"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Fundus 4",
+          "exam": "Pre-Training Test",
             "format": "Midterm Exam", 
             "graded": true
         }
@@ -1107,7 +1199,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@45f4dac5af4040ab88af7e25eab02df9"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Fundus 4",
+          "exam": "Post-Training Test",
             "format": "Final Exam", 
             "graded": true
         }
@@ -1118,7 +1211,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6b07d24d133e44bdbfc0a4dae10f1102"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Fundus 3",
+          "exam": "Post-Training Test",
             "format": "Final Exam", 
             "graded": true
         }
@@ -1129,7 +1223,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@acffb9c29f754a8e943163148fc5e0a3"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Fundus 1",
+          "exam": "Post-Training Test",
             "format": "Final Exam", 
             "graded": true
         }
@@ -1140,7 +1235,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@3ec8aceb5522435f96e97203a97b146b"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Fundus 5",
+          "exam": "Post-Training Test",
             "format": "Final Exam", 
             "graded": true
         }
@@ -1151,7 +1247,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@f9bcf12fe0fb4403911958c96d251412"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Fundus 5",
+          "exam": "Pre-Training Test",
             "format": "Midterm Exam", 
             "graded": true
         }
@@ -1162,7 +1259,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@9d3152eb85d049beb33362e13d5c7093"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Fundus 2",
+          "exam": "Pre-Training Test",
             "format": "Midterm Exam", 
             "graded": true
         }
@@ -1200,7 +1298,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6bb0481bd1df40ffb3384cc84bb17e07"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Fundus 1",
+          "exam": "Pre-Training Test",
             "format": "Midterm Exam", 
             "graded": true
         }
@@ -1211,7 +1310,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@ab4e05ca705047d0af6c18802b1f3131"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test", 
+          "display_name": "Fundus 2",
+          "exam": "Post-Training Test",
             "format": "Final Exam", 
             "graded": true
         }
@@ -1233,7 +1333,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@50c737f1b8b945a9a31b5de5e03d2d62"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test", 
+          "display_name": "Fundus 3",
+          "exam": "Pre-Training Test",
             "format": "Midterm Exam", 
             "graded": true
         }
@@ -1398,7 +1499,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@07df45e59e374ebd91deb4009cbde9e6"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Fundus 5",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@440d94715c6542fa8b846dadbbc3cd4f": {
@@ -1426,7 +1528,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@35ec1ff64d1d437fb9388656955a53d4"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Fundus 4",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@46040d845a3c4707928d465c04ad1124": {
@@ -1460,7 +1563,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@5126a2ba3d2a41d685ebfc97dc7cdf3c"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Fundus 3",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@5c3b6add1c12488fb9275b9148c439ca": {
@@ -1487,7 +1591,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@f7fe349fcbdf4d0cb8745fb8c6618b2d"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Fundus 3",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6bb0481bd1df40ffb3384cc84bb17e07": {
@@ -1504,7 +1609,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@0fd63b19884d4b199ff10b0f636e5cdb"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Fundus 1",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@6bc77b3080304fecb2864ba480993e85": {
@@ -1561,7 +1667,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@e482591c8bfd42d7877c02e7570ef76e"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Fundus 2",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@ab4e05ca705047d0af6c18802b1f3131": {
@@ -1578,7 +1685,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@20599252806e4c84b85a069d6cec9109"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Fundus 2",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@acffb9c29f754a8e943163148fc5e0a3": {
@@ -1595,7 +1703,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@feffefa5e18a49f28dfa5434cd150a44"
         ], 
         "metadata": {
-            "display_name": "Post-Training Test"
+          "display_name": "Fundus 1",
+          "exam": "Post-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@b928cdb68e0640a49b3da95f30921eab": {
@@ -1621,7 +1730,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@140487e6cdc541a6913f297f5940acbb"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Fundus 4",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@vertical+block@d8aa971d31f04b94a7ee031f3eab77ef": {
@@ -1675,7 +1785,8 @@
             "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@problem+block@2bf60205809142e9b60e31678c74d776"
         ], 
         "metadata": {
-            "display_name": "Pre-Training Test"
+          "display_name": "Fundus 5",
+          "exam": "Pre-Training Test"
         }
     }, 
     "block-v1:UniversityOfSydney+OPHTHAL101+2017_T2+type@video+block@8cd819c14fdd4e8db96fd5ce3d686275": {
