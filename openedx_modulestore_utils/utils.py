@@ -5,7 +5,7 @@ from pprint import PrettyPrinter
 
 pp = PrettyPrinter(indent=4).pprint
 
-pdata = partial(path.join, path.dirname(__file__), '_data')
+pdata = partial(path.join, path.dirname(__file__), "_data")
 
 
 def update_d(d, arg=None, **kwargs):
